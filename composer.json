@@ -1,5 +1,5 @@
 {
-    "name": "friendsofsymfony/elastica-bundle",
+    "name": "mikalai-b/elastica-bundle",
     "type": "symfony-bundle",
     "description": "Elasticsearch PHP integration for your Symfony project using Elastica",
     "keywords": ["doctrine2", "elastica", "elasticsearch", "mongodb", "search"],
@@ -12,8 +12,8 @@
         { "name": "Jeremy Mikola", "email": "jmikola@gmail.com" }
     ],
     "require": {
-        "php": "^7.1",
-        "symfony/framework-bundle": "^3.4|^4.3|^5",
+        "php": "5.6.*",
+        "symfony/framework-bundle": "2.8|^3.4|^4.3|^5",
         "symfony/console": "^3.4|^4.3|^5",
         "symfony/dependency-injection": "^3.4|^4.3|^5",
         "symfony/property-access": "^3.4|^4.3|^5",
